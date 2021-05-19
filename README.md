@@ -19,7 +19,6 @@ Try running the following commands:
 TODO : 
 
 - Move to command line
-- Fix lineage
 - Create function for `as-of-date`
 
 
