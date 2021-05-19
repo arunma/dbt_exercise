@@ -13,3 +13,17 @@ Try running the following commands:
 - Join the [chat](http://slack.getdbt.com/) on Slack for live discussions and support
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+
+
+
+TODO : 
+
+- Move to command line
+- Fix lineage
+- Create function for `as-of-date`
+
+
+TBD :
+
+- Event duplicates - filter in Spark layer before staging - consider upsert
+- How to capture and handle hard deletes

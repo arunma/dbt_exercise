@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: staging
+    database: staging
+    schema: core
+    tables:
+      - name: staging_customer_account
+        identifier: customer_account
+  # - name: bronze
+  #   database: bronze
+  #   schema: core
+  #   tables:
+  #     - name: customer_account_bronze
+  #       identifier: customer_account
